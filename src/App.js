@@ -1,11 +1,15 @@
 // import logo from './logo.svg';
 import './App.css';
-import Homepage from './pages/home/Homepage';
-import Watch from './pages/watch/Watch';
+import Register from './pages/register/Register';
+// import Homepage from './pages/home/Homepage';
+// import Login from './pages/login/Login';
+// import Register from './pages/register/Register';
+// import Watch from './pages/watch/Watch';
 function App() {
   return (
-   <Homepage></Homepage>
-  // <Watch></Watch>
+ <Register></Register>
+
+
   );
 }
 
